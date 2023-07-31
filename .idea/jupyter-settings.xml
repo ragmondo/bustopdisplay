@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="5c37d858285a36b6062cdbc68ca1965b9fd3486e470d5537" />
+          <option name="urlString" value="http://192.168.1.254:8888/" />
+          <authParams2>
+            <map>
+              <entry key="token" value="5c37d858285a36b6062cdbc68ca1965b9fd3486e470d5537" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="b772792ba102bbbf8254280ffc78a03fab3e33f611aed831/" />
+          <option name="urlString" value="http://richard-nvidia:8888/" />
+          <authParams2>
+            <map>
+              <entry key="token" value="b772792ba102bbbf8254280ffc78a03fab3e33f611aed831/" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/../experiments-with-pytorch/experiments-with-pytorch.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="token" value="b772792ba102bbbf8254280ffc78a03fab3e33f611aed831/" />
+              <option name="urlString" value="http://richard-nvidia:8888/" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="b772792ba102bbbf8254280ffc78a03fab3e33f611aed831/" />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
