@@ -1,5 +1,5 @@
 
-from mock import MagicMock
+
 import requests
 from datetime import datetime
 import pprint
@@ -7,6 +7,7 @@ import pprint
 try:
     import ledshim
 except ImportError:
+    from mock import MagicMock
     print("Import error with ledshim .. mocking")
     mm = MagicMock()
     mm.DISPLAY_WIDTH = 20
