@@ -1,5 +1,5 @@
-from leddemo import led
+from leddemo import run
 
 if __name__ == '__main__':
-    led()
+    run()
 
